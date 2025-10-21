@@ -1,0 +1,41 @@
+.home__section {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 60px 50px;
+  background-color: #ffffff;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.home__text h1 {
+  font-size: 3.2rem;
+  margin-bottom: 20px;
+}
+
+.green__h1{
+  color: #2e7d32;
+}
+
+.btn__primary {
+  padding: 12px 25px;
+  background-color: #66bb6a;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-top: 2rem;
+  transition: all .3s ease;
+}
+
+.btn__primary:hover{
+  filter: brightness(75%)
+}
+
+.home__image{
+  box-shadow: 0 5px 15px rgba(0, 0, 0, .3);
+}
+
+.home__image img{
+  display: flex;
+}
