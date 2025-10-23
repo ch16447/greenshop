@@ -2,7 +2,7 @@
 A modern e-commerce website for eco-friendly products, making sustainable shopping easy and enjoyable.
 
 ## ✨ Demo
-![img](https://github.com/ch16447/Voya/blob/main/voya.png?raw=true)
+![img](https://github.com/ch16447/greenshop/blob/main/greenshop.png?raw=true)
 
 ## 🚀 Features
 - shopping cart management: add, remove, or modify the quantity of items in the shopping cart
